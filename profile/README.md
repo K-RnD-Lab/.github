@@ -85,7 +85,7 @@ S1 — Biomedical & Oncology
 [![Space](https://img.shields.io/badge/🤗-PHYLO--RNA-orange)](https://huggingface.co/spaces/K-RnD-Lab/PHYLO-RNA)
 
 | Code | Tool | Key Finding | Data | Status |
-|------|------|-------------|------|--------|
+|---------|------|-------------|------|--------|
 | S1-R2 | **miRNA predictor** (BRCA1/2, TP53) | hsa-miR-148a-3p top silenced in BRCA2-mut | TCGA-BRCA · miRBase | ✅ Active |
 | S1-R3 | **siRNA synthetic lethal** (20+ cancers) | SPC24, BUB1B, CDC45 — no existing drugs in LUAD | DepMap CERES · GEO | ✅ Active |
 | S1-R4 | **lncRNA-TREM2** network | CYTOR→miR-138-5p→AKT1 controls neuroinflammation | LNCipedia · miRBase | ✅ Active |
