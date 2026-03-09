@@ -85,7 +85,7 @@ S1 — Biomedical & Oncology
 [![Repo](https://img.shields.io/badge/GitHub-PHYLO--RNA-181717?logo=github)](https://github.com/K-RnD-Lab/PHYLO-RNA)
 [![Space](https://img.shields.io/badge/🤗-PHYLO--RNA-orange)](https://huggingface.co/spaces/K-RnD-Lab/PHYLO-RNA)
 
-| Code | Tool | Key Finding | Data | Status |
+| Code &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tool | Key Finding | Data | Status |
 |---------|------|-------------|------|--------|
 | S1-R2 | **miRNA predictor** (BRCA1/2, TP53) | hsa-miR-148a-3p top silenced in BRCA2-mut | TCGA-BRCA · miRBase | ✅ Active |
 | S1-R3 | **siRNA synthetic lethal** (20+ cancers) | SPC24, BUB1B, CDC45 — no existing drugs in LUAD | DepMap CERES · GEO | ✅ Active |
@@ -100,7 +100,7 @@ S1 — Biomedical & Oncology
 [![Repo](https://img.shields.io/badge/GitHub-PHYLO--DRUG-181717?logo=github)](https://github.com/K-RnD-Lab/PHYLO-DRUG)
 [![Space](https://img.shields.io/badge/🤗-PHYLO--DRUG-orange)](https://huggingface.co/spaces/K-RnD-Lab/PHYLO-DRUG)
 
-| Code | Tool | Key Finding | Data | Status |
+| Code &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tool | Key Finding | Data | Status |
 |------|------|-------------|------|--------|
 | S1-R5 | **FGFR3 RNA-directed compounds** | CHEMBL1575701 — RNA score 0.793, near-zero toxicity | ChEMBL · RNAfold | ✅ Active |
 | S1-R5b | Synthetic lethal drug mapping | PLK1, CDK1 — clinical-stage compounds in LUAD/BRCA | DepMap · ChEMBL | 🔶 In progress |
@@ -114,7 +114,7 @@ S1 — Biomedical & Oncology
 [![Repo](https://img.shields.io/badge/GitHub-PHYLO--LNP-181717?logo=github)](https://github.com/K-RnD-Lab/PHYLO-LNP)
 [![Space](https://img.shields.io/badge/🤗-PHYLO--LNP-orange)](https://huggingface.co/spaces/K-RnD-Lab/PHYLO-LNP)
 
-| Code | Tool | Key Finding | Data | Status |
+| Code &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tool | Key Finding | Data | Status |
 |------|------|-------------|------|--------|
 | S1-R6 | **Corona predictor (serum)** | CHL/HL/PEG ratios dominate efficacy — AUC=0.791 | Literature proteomics | ✅ Active |
 | S1-R7 | **Flow Corona — Vroman effect** | Blood flow accelerates albumin→ApoE exchange 3–4× | Kinetic models | ✅ Active |
@@ -130,7 +130,7 @@ S1 — Biomedical & Oncology
 [![Repo](https://img.shields.io/badge/GitHub-PHYLO--BIOMARKERS-181717?logo=github)](https://github.com/K-RnD-Lab/PHYLO-BIOMARKERS)
 [![Space](https://img.shields.io/badge/🤗-PHYLO--BIOMARKERS-orange)](https://huggingface.co/spaces/K-RnD-Lab/PHYLO-BIOMARKERS)
 
-| Code | Tool | Key Finding | Data | Status |
+| Code &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tool | Key Finding | Data | Status |
 |------|------|-------------|------|--------|
 | S1-R9 | **Liquid Biopsy classifier** | CTHRC1+FHL2+LDHA panel — AUC=0.992* | TCGA proteomics · CPTAC | ✅ Active |
 | S1-R9b | Protein panel validator | CTHRC1 weight=0.18 dominates cancer score | TCGA · GEO plasma | 🔶 In progress |
@@ -146,7 +146,7 @@ S1 — Biomedical & Oncology
 [![Repo](https://img.shields.io/badge/GitHub-PHYLO--RARE-181717?logo=github)](https://github.com/K-RnD-Lab/PHYLO-RARE)
 [![Space](https://img.shields.io/badge/🤗-PHYLO--RARE-orange)](https://huggingface.co/spaces/K-RnD-Lab/PHYLO-RARE)
 
-| Code | Toolkit | Key Gap | Data | Status |
+| Code &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Toolkit | Key Gap | Data | Status |
 |------|---------|---------|------|--------|
 | S1-R12b | **DIPG toolkit** | H3K27M variants + CSF LNP + circadian biology | PBTA · GSE126319 | 🔴 In development |
 | S1-R12c | **UVM toolkit** | GNAQ/GNA11 + vitreous humor corona + m6A | TCGA-UVM (n=80) | 🔴 In development |
@@ -171,7 +171,7 @@ S2 — Plant Science
 └── S2-R3  Anti-cancer Screener       ← plant compounds vs cancer targets (ChEMBL)
 ```
 
-| Code | Tool | Status |
+| Code &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tool | Status |
 |------|------|--------|
 | S2-R1 | Phytochemical Profiler | 🟡 In development |
 | S2-R2 | Plant Genome Browser | 🔴 Planned |
@@ -193,7 +193,7 @@ S3 — Agricultural Biology
 └── S3-R3  Soil Metabolomics          ← rhizosphere metabolite → pathway analysis
 ```
 
-| Code | Tool | Status |
+| Code &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tool | Status |
 |------|------|--------|
 | S3-R1 | Rhizosphere Microbiome | 🟡 In development |
 | S3-R2 | Biofertilizer Predictor | 🔴 Planned |
@@ -266,7 +266,7 @@ T1 — ML Tools
 └── T1-R4  Synthetic Lethal Finder     ← multi-cancer SL target identification pipeline
 ```
 
-| Code | Tool | Key result | Status |
+| Code &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tool | Key result | Status |
 |------|------|------------|--------|
 | T1-R1 | OpenVariant Engine | AUC=0.939, no DL required | ✅ Active |
 | T1-R2 | Corona ML Pipeline | AUC=0.791, PEG/lipid features dominate | ✅ Active |
