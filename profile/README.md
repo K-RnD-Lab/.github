@@ -50,12 +50,12 @@ Organized into 6 sub-directions, each with its own GitHub repo and HuggingFace S
 ```
 S1 — Biomedical & Oncology
 │
-├── 🧬 S1-A · PHYLO-GENOMICS     ← Genomics & Variants
-├── 🔬 S1-B · PHYLO-RNA          ← RNA Therapeutics
-├── 💊 S1-C · PHYLO-DRUG         ← Drug Discovery
-├── 🧪 S1-D · PHYLO-LNP          ← Nanoparticle Delivery
-├── 🩸 S1-E · PHYLO-BIOMARKERS   ← Biomarkers & Diagnostics
-└── 🧠 S1-F · PHYLO-RARE         ← Rare Cancers / Frontier
+├── 🧬 S1-A · PHYLO-GENOMICS     ← Genomics & Variants ("What broke in the DNA?")
+├── 🔬 S1-B · PHYLO-RNA          ← RNA Therapeutics ("How to turn it off via RNA?")
+├── 💊 S1-C · PHYLO-DRUG         ← Drug Discovery ("Which molecule treats/fixes it?")
+├── 🧪 S1-D · PHYLO-LNP          ← Nanoparticle Delivery ("How to deliver drugs to cells?")
+├── 🩸 S1-E · PHYLO-BIOMARKERS   ← Biomarkers & Diagnostics ("How to detect without a biopsy?")
+└── 🧠 S1-F · PHYLO-RARE         ← Rare Cancers / Frontier ("Where no one has looked yet?")
 ```
 
 **Entry point (all 10 tools, beginner demo):**
