@@ -264,6 +264,4 @@ Built with Python · Gradio · scikit-learn · matplotlib · pandas
 
 © 2026 Oksana Kolisnyk · [KOSATIKS GROUP](https://kosatiks-group.pp.ua) · MIT License
 
-*Place this file at `.github/profile/README.md` inside the K-RnD-Lab GitHub organization*
-
 </div>
