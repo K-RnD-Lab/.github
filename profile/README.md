@@ -71,7 +71,7 @@ S1 — Biomedical & Oncology
 [![Space](https://img.shields.io/badge/🤗-PHYLO--GENOMICS-orange)](https://huggingface.co/spaces/K-RnD-Lab/PHYLO-GENOMICS)
 
 
-| Code &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tool | Key Finding | Data | Status |
+| Code &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tool | Key Finding | Data | Status |
 |:-------------------------------------------|:------|:-------------|:------|:------|
 | S1-R1 | **OpenVariant v2** | AUC=0.939 · matches AlphaMissense without deep learning | ClinVar 2026 · gnomAD | ✅ Active |
 | S1-R1b | Somatic mutation classifier | BRCA1/2 · TP53 · EGFR · ALK panels | TCGA-BRCA · TCGA-LUAD | 🔶 In progress |
