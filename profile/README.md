@@ -74,7 +74,7 @@ S1 — Biomedical & Oncology
 |------|------|-------------|------|--------|
 | S1-R1 | **OpenVariant v2** | AUC=0.939 · matches AlphaMissense without deep learning | ClinVar 2026 · gnomAD | ✅ Active |
 | S1-R1b | Somatic mutation classifier | BRCA1/2 · TP53 · EGFR · ALK panels | TCGA-BRCA · TCGA-LUAD | 🔶 In progress |
-| S1-R12a | Rare variant explorer | DIPG H3K27M · UVM GNAQ/GNA11 · ACC MYB-NFIB | PBTA · TCGA-UVM | 🔴 Planned |
+| S1-R12a   | Rare variant explorer | DIPG H3K27M · UVM GNAQ/GNA11 · ACC MYB-NFIB | PBTA · TCGA-UVM | 🔴 Planned |
 
 ---
 
