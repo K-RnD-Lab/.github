@@ -83,9 +83,8 @@ A science-facing lane for measurable life systems, cognition, adaptive training,
 - **Primary home:** `📚 S7 — K Life OS`
 - **Scientific sub-lane:** `S7-I · 🔎 Career or Education`
 - **Current project:** `R1 - Master Prep Analytics`
-- **Public case bridge:** `E4-B · Learning & Preparation Cases`
 
-This way it is first treated as a learning-and-cognition research line, and only secondarily as a public-facing case about systems, iteration, and visible progress.
+This way it is treated first and fully as a learning-and-cognition research line inside the science sphere.
 
 ---
 
