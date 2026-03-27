@@ -76,8 +76,15 @@ Environmental microbiomes, biodiversity, and climate-linked computational ecolog
 
 ### 📚 S7 — Learning, Cognition & Adaptive Systems
 
-A science-facing lane for learning systems, cognitive performance, adaptive training, and brain-linked computational questions.
-This is the scientific bridge for preparation, training, cognition, and long-horizon performance research.
+A science-facing lane for learning systems, cognitive performance, adaptive training, preparation analytics, and brain-linked computational questions.
+This is the natural scientific home for long-horizon preparation research, learning workflows, and measurable training progress.
+
+**Where master prep belongs:**
+
+- **Primary home:** `S7 — Learning, Cognition & Adaptive Systems`
+- **Public case bridge:** `E4 — Applied Investigations & Public Cases`
+
+This way it is first treated as a learning-and-cognition research line, and only secondarily as a public-facing case about systems, iteration, and visible progress.
 
 ---
 
@@ -120,35 +127,24 @@ E3 — Open, Social & Ecosystem Signals
 └── E3-R3  Ecosystem Mapping & Signal Tracking
 ```
 
-### 📘 E4 — Applied Investigations, Learning Systems & Public Cases
+### 📘 E4 — Applied Investigations & Public Cases
 
 Cross-domain investigations that do not belong only to health, market, or social data.
 This is the flexible lane for:
 
-- master prep analytics
-- learning dashboards
 - workflow studies
 - research operations
-- public case studies about how a system evolved over time
+- ecosystem-facing public cases
+- visible dashboards of how a system evolved over time
+- secondary public-case framing for learning or preparation projects
 
 ```text
-E4 — Applied Investigations, Learning Systems & Public Cases
+E4 — Applied Investigations & Public Cases
 │
-├── E4-R1  Master Prep Analytics & Learning Dashboards
-├── E4-R2  Research Workflow & Operating Systems
-└── E4-R3  Other Cross-Domain Public Case Studies
+├── E4-R1  Research Workflow & Operating Systems
+├── E4-R2  Public Dashboards & Progress Cases
+└── E4-R3  Other Cross-Domain Investigations
 ```
-
-**Where master prep belongs:**
-
-- **Primary home:** `E4 — Applied Investigations, Learning Systems & Public Cases`
-- **Scientific bridge:** `S7 — Learning, Cognition & Adaptive Systems`
-
-This way it is not a random extra initiative.
-It becomes both:
-
-- an entrepreneurship-facing public case about systems, progress, and iteration
-- a science-adjacent bridge to cognition, learning, and adaptive training
 
 ---
 
@@ -204,8 +200,8 @@ Examples:
   S1-Biomedical_R1_03-2026       ← OpenVariant
   S1-Biomedical_R11_06-2026      ← LNP in CSF
   S2-Plant_R1_09-2026            ← Phytochemical profiler
-  E2-Market_R1_12-2026           ← Campaign analytics
-  E4-LearningSystems_R1_03-2026  ← master prep analytics / public case
+  S7-Learning_R1_03-2026         ← master prep analytics / preparation research
+  E2-Market_R1_12-2026           ← campaign analytics
   T1-MLTools_R2_04-2026          ← reusable research pipeline
 ```
 
