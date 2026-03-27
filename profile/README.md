@@ -76,13 +76,14 @@ Environmental microbiomes, biodiversity, and climate-linked computational ecolog
 
 ### 📚 S7 — Learning, Cognition & Adaptive Systems
 
-A science-facing lane for learning systems, cognitive performance, adaptive training, preparation analytics, and brain-linked computational questions.
-This is the natural scientific home for long-horizon preparation research, learning workflows, and measurable training progress.
+A science-facing lane for learning systems, cognitive performance, adaptive training, preparation analytics, and brain-linked computational questions. This is the natural scientific home for long-horizon preparation research, learning workflows, and measurable training progress.
 
 **Where master prep belongs:**
 
-- **Primary home:** `S7 — Learning, Cognition & Adaptive Systems`
-- **Public case bridge:** `E4 — Applied Investigations & Public Cases`
+- **Primary home:** `📚 S7 — Learning, Cognition & Adaptive Systems`
+- **Scientific sub-lane:** `S7-A · Career & Education`
+- **Current project:** `R1 - Master Prep Analytics`
+- **Public case bridge:** `E4-B · Learning & Preparation Cases`
 
 This way it is first treated as a learning-and-cognition research line, and only secondarily as a public-facing case about systems, iteration, and visible progress.
 
@@ -129,22 +130,21 @@ E3 — Open, Social & Ecosystem Signals
 
 ### 📘 E4 — Applied Investigations & Public Cases
 
-Cross-domain investigations that do not belong only to health, market, or social data.
-This is the flexible lane for:
-
-- workflow studies
-- research operations
-- ecosystem-facing public cases
-- visible dashboards of how a system evolved over time
-- secondary public-case framing for learning or preparation projects
+Cross-domain investigations that do not belong only to health, market, or social data. This is the flexible lane for systems-facing, visible, public-facing research cases.
 
 ```text
 E4 — Applied Investigations & Public Cases
 │
-├── E4-R1  Research Workflow & Operating Systems
-├── E4-R2  Public Dashboards & Progress Cases
-└── E4-R3  Other Cross-Domain Investigations
+├── E4-A · Systems & Workflow Cases
+├── E4-B · Learning & Preparation Cases
+└── E4-C · Life OS & Longitudinal Self-Research Cases
 ```
+
+**How to use E4 correctly:**
+
+- `E4-A` → workflows, operations, visible system evolution
+- `E4-B` → preparation dashboards, learning cases, adaptive progress stories
+- `E4-C` → broader life-system analytics only when they become real longitudinal research rather than private journaling
 
 ---
 
@@ -200,8 +200,8 @@ Examples:
   S1-Biomedical_R1_03-2026       ← OpenVariant
   S1-Biomedical_R11_06-2026      ← LNP in CSF
   S2-Plant_R1_09-2026            ← Phytochemical profiler
-  S7-Learning_R1_03-2026         ← master prep analytics / preparation research
-  E2-Market_R1_12-2026           ← campaign analytics
+  S7-CareerEducation_R1_03-2026  ← master prep analytics / preparation research
+  E4B-LearningCases_R1_03-2026   ← public dashboard mirror for preparation case
   T1-MLTools_R2_04-2026          ← reusable research pipeline
 ```
 
