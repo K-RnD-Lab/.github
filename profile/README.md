@@ -74,13 +74,13 @@ What computational patterns predict neurodegeneration and aging?
 
 Environmental microbiomes, biodiversity, and climate-linked computational ecology.
 
-### 📚 S7 — Learning, Cognition & Adaptive Systems
+### 📚 S7 — K Life OS
 
-A science-facing lane for learning systems, cognitive performance, adaptive training, preparation analytics, and brain-linked computational questions. This is the natural scientific home for long-horizon preparation research, learning workflows, and measurable training progress.
+A science-facing lane for measurable life systems, cognition, adaptive training, self-tracking, and longitudinal human-pattern research. This is the natural scientific home for long-horizon preparation research, learning workflows, selected life-pattern studies, and measurable training progress.
 
 **Where master prep belongs:**
 
-- **Primary home:** `📚 S7 — Learning, Cognition & Adaptive Systems`
+- **Primary home:** `📚 S7 — K Life OS`
 - **Scientific sub-lane:** `S7-A · Career & Education`
 - **Current project:** `R1 - Master Prep Analytics`
 - **Public case bridge:** `E4-B · Learning & Preparation Cases`
@@ -263,3 +263,4 @@ All computational models are research-grade and experimental. Results labeled si
 
 *Built with Python · Gradio · scikit-learn · pandas · matplotlib*  
 *© 2026 Oksana Kolisnyk · KOSATIKS GROUP · MIT License*
+
