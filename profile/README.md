@@ -1,193 +1,201 @@
-﻿<div align="center">
+﻿# K R&D Lab
 
-# 🔬 K R&D Lab
-
-**Open-Source Computational Research Hub by [Oksana Kolisnyk](https://kosatiks-group.pp.ua)**
+Open-Source Computational Research Hub by [Oksana Kolisnyk](https://kosatiks-group.pp.ua)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-K--RnD--Lab-orange)](https://huggingface.co/K-RnD-Lab)
 [![GitHub](https://img.shields.io/badge/GitHub-K--RnD--Lab-181717?logo=github)](https://github.com/K-RnD-Lab)
 
-*Computational research across science, technology, and analytics*
+Computational research across Science, Entrepreneurship, and Technology.
 
-> ⚠️ All models are hypothesis-generating and require experimental or empirical validation.
-
-</div>
+> All models are hypothesis-generating and require experimental or empirical validation.
 
 ---
 
-## 🌐 Three Research Spheres
+## Three Spheres
 
 ```text
 K R&D Lab
-│
-├── 🧪 SCIENCE      — biology, medicine, plant science, ecology, chemistry
-├── 💻 TECH         — ML tools, bioinformatics pipelines, open infrastructure
-└── 📊 ANALYTICS    — health data, marketing, behavioral, open social data, and exploratory cases
+|
+|-- SCIENCE           - biology, medicine, plant science, ecology, chemistry
+|-- ENTREPRENEURSHIP  - market intelligence, public cases, learning systems, venture-facing investigations
+`-- TECHNOLOGY        - ML tools, reproducible pipelines, open infrastructure, research interfaces
 ```
 
-**How findings are meant to be used:**
-- Scientists → take hypotheses into wet-lab or field validation
-- Pharma / Agro / Tech → evaluate leads for applied development
-- Students & researchers → replicate, extend, cite
+How findings are meant to be used:
+- Scientists -> take hypotheses into wet-lab or field validation
+- Founders / operators -> evaluate opportunities, systems, and decision logic
+- Students / researchers -> replicate, extend, cite, or adapt methods
+- Developers -> reuse tools, pipelines, and open infrastructure
 
 ---
 
-## 🧪 SPHERE I — SCIENCE
+## SPHERE I - SCIENCE
 
 Computational approaches to natural sciences. Methods: bioinformatics, cheminformatics, statistical modeling, network analysis.
 
-### 🩺 S1 — Biomedical & Oncology
-Computational models for cancer biology, RNA therapeutics, nanoparticle delivery, biomarkers, and rare cancers.
+### S1 - Biomedical & Oncology
+Cancer biology, RNA therapeutics, nanoparticle delivery, biomarkers, and rare cancers.
 
-```text
-S1 — Biomedical & Oncology
-│
-├── 🧬 S1-A · PHYLO-GENOMICS     ← Genomics & Variants
-├── 🔬 S1-B · PHYLO-RNA          ← RNA Therapeutics
-├── 💊 S1-C · PHYLO-DRUG         ← Drug Discovery
-├── 🧪 S1-D · PHYLO-LNP          ← Nanoparticle Delivery
-├── 🩸 S1-E · PHYLO-BIOMARKERS   ← Biomarkers & Diagnostics
-└── 🧠 S1-F · PHYLO-RARE         ← Rare Cancers / Frontier
-```
+### S2 - Plant Science & Phytochemistry
+Bioactive compounds, plant datasets, and phytochemical analysis.
 
-### 🌿 S2 — Plant Science & Phytochemistry
-What bioactive compounds do plants produce, and what can they do?
+### S3 - Agricultural Biology & Biofertilizers
+Rhizosphere microbiomes, biofertilizer hypotheses, and soil-linked computation.
 
-### 🌾 S3 — Agricultural Biology & Biofertilizers
-How do soil microbiomes support plant growth, and how can they be engineered?
+### S4 - Biochemistry & Metabolomics
+Metabolic signatures, pathway mapping, and biochemical profiling.
 
-### ⚗️ S4 — Biochemistry & Metabolomics
-What metabolic signatures distinguish healthy from diseased states?
+### S5 - Neuroscience & Aging
+Neuroinflammation, aging signals, and computational neuroscience patterns.
 
-### 🧠 S5 — Neuroscience & Aging
-What computational patterns predict neurodegeneration and aging?
-
-### 🌍 S6 — Ecology & Environmental Science
-Environmental microbiomes, biodiversity, and climate-linked computational ecology.
+### S6 - Ecology & Environmental Science
+Environmental microbiomes, biodiversity, and climate-linked computation.
 
 ---
 
-## 💻 SPHERE II — TECH
+## SPHERE II - ENTREPRENEURSHIP
 
-Computational tools, ML pipelines, and open bioinformatics infrastructure. Methods: machine learning, NLP, statistical modeling, software engineering.
+Applied research for decision-making, venture logic, opportunity mapping, public cases, and operating systems.
 
-### 🤖 T1 — Machine Learning & Bioinformatics Tools
-Reusable ML models and pipelines for life sciences data.
+### E1 - Health & Population Strategy
+Population health patterns, epidemiology, and health equity questions translated into usable analytical frames.
 
-### 📈 T2 — Statistical Methods & Reproducibility
-Frameworks, scoring systems, and open methodology for computational research.
+### E2 - Market & Behavioral Intelligence
+Consumer behavior, campaign effectiveness, segmentation, and market-facing analytical research.
 
-### 🧰 T3 — Open Research Infrastructure
-Reusable research interfaces, literature gap detection, and infrastructure for open scientific work.
+### E3 - Open, Social & Ecosystem Signals
+Open data, social trend analysis, public discourse, ecosystem mapping, and signals from external environments.
+
+### E4 - Special Investigations & Learning Systems
+Cross-domain investigations that do not belong only to health, market, or social data.
+This is the home for:
+- master prep analytics
+- learning dashboards
+- research workflow studies
+- operating system experiments
+- public case studies about how a process evolved over time
+
+```text
+E4 - Special Investigations & Learning Systems
+|
+|-- E4-R1  Master Prep Analytics & Learning Dashboards
+|-- E4-R2  Research Workflow & Operating Systems
+`-- E4-R3  Public Case Studies & Cross-Domain Investigations
+```
 
 ---
 
-## 📊 SPHERE III — ANALYTICS
+## SPHERE III - TECHNOLOGY
 
-Applied data analytics across health, behavior, and society. Methods: statistical analysis, visualization, predictive modeling, A/B testing, and cross-domain case design.
+Computational tools, ML pipelines, automation, and open research infrastructure.
 
-### 🏥 A1 — Health & Epidemiology Analytics
-Population health patterns, epidemiology, and health equity analysis.
+### T1 - Machine Learning & Bioinformatics Tools
+Reusable ML models and pipelines for life sciences and analytical work.
 
-```text
-A1 — Health Analytics
-│
-├── A1-R1  Population Health Patterns
-└── A1-R2  Health Equity Analysis
-```
+### T2 - Statistical Methods & Reproducibility
+Scoring systems, confidence labels, methodology, and reproducible research logic.
 
-### 🎯 A2 — Marketing & Behavioral Analytics
-Consumer behavior modeling, campaign effectiveness, and audience segmentation.
-
-```text
-A2 — Marketing & Behavioral
-│
-├── A2-R1  Consumer Behavior Modeling
-├── A2-R2  Campaign Effectiveness
-└── A2-R3  Audience Segmentation
-```
-
-### 🗂️ A3 — Open & Social Data
-Open datasets, public discourse, and social trend analysis.
-
-```text
-A3 — Open Data
-│
-├── A3-R1  Open Government Data
-└── A3-R2  Social Trend Analysis
-```
-
-### 🧭 A4 — Exploratory Research & Special Investigations
-Cross-domain analytical research that does not belong only to health, marketing, or open/social data.
-This is the flexible layer for prep analytics, workflow studies, research operations, learning systems, and other special investigations.
-
-```text
-A4 — Exploratory Research & Special Investigations
-│
-├── A4-R1  Prep Analytics & Learning Dashboards
-├── A4-R2  Research Workflow & Operating Systems
-└── A4-R3  Other Cross-Domain Investigations
-```
-
-**Suggested repo theme for this lane:**
-- `A4-Exploratory-Research`
-- or `A4-Special-Investigations`
+### T3 - Open Research Infrastructure
+Reusable interfaces, literature gap detection, registry logic, dashboards, and open tooling.
 
 ---
 
-## 🗂️ Repository & Naming Convention
+## Where Master Prep Analytics Lives
+
+Master prep analytics should not sit inside biomedical science.
+It belongs in `SPHERE II - ENTREPRENEURSHIP`, lane `E4 - Special Investigations & Learning Systems`.
+
+Why:
+- it is a public learning case
+- it is an operating experiment
+- it produces measurable progress evidence
+- it can become a portfolio-grade research narrative about preparation, systems, and iteration
+
+In other words: it is not admission content only. It is a structured case about how a learning system is built, tracked, and improved.
+
+---
+
+## How Results Should Be Surfaced
+
+For this type of repo, use a four-layer output model:
+
+1. `data/*.csv`
+The source of truth. Raw prep logs, study blocks, and session-level metrics.
+
+2. `dashboard/`
+A lightweight browser view for quick visuals and status checks.
+
+3. `report.md`
+A readable case-study narrative with method, observations, charts, and decisions.
+
+4. `figures/`
+Exported charts for README, LinkedIn posts, presentations, and public updates.
+
+Recommended public metrics:
+- total study minutes
+- total practice sessions
+- simulation count
+- rolling accuracy by subject
+- weakest topic clusters
+- strongest improvement windows
+- source coverage by platform
+- timeline of consistency
+
+---
+
+## Naming Convention
 
 ```text
 Naming pattern: SPHERE-DIRECTION_RN_MonthYear
 
 Examples:
-  S1-Biomedical_R1_03-2026    ← OpenVariant
-  S1-Biomedical_R11_06-2026   ← LNP in CSF
-  S2-Plant_R1_09-2026         ← Phytochemical profiler
-  A2-Marketing_R1_12-2026     ← Campaign analytics
-  A4-Exploratory_R1_03-2026   ← prep analytics / special investigation
+  S1-Biomedical_R1_03-2026        -> OpenVariant
+  S2-Plant_R1_09-2026             -> Phytochemical profiler
+  E2-Market_R1_12-2026            -> Campaign effectiveness study
+  E4-LearningSystems_R1_03-2026   -> Master prep analytics
+  T1-MLTools_R2_04-2026           -> reusable research pipeline
 ```
 
-**Standard repo structure:**
-- `README.md` — research question, methods, key findings
-- `report.md` — full findings plus confidence labels
-- `CITATION.cff` — citation metadata
-- `LICENSE` — MIT
-- `requirements.txt` — Python dependencies
-- `app.py` — Gradio interactive demo if applicable
-- `data/raw/` — original public datasets or download scripts
-- `data/processed/` — cleaned, analysis-ready data
-- `figures/` — plots and visualizations
-- `execution_trace.ipynb` — reproducible notebook
+Transition note:
+- older analytical repos may still carry `A`-style labels
+- the conceptual model is now `E` for Entrepreneurship
+- repo names can be migrated gradually without breaking the overall logic
 
 ---
 
-## 🧭 Navigation
+## Standard Repo Structure
 
-**New to the lab?**
-- Start with the demo spaces and readable repo overviews
-- Move from beginner review to reproducible notebooks and reports
-
-**Scientist / researcher?**
-- Use `report.md` in each repo for findings, datasets, and confidence labels
-- Treat all claims as computational until experimentally validated
-
-**Pharma / biotech?**
-- Focus on PHYLO-DRUG, PHYLO-LNP, and PHYLO-BIOMARKERS
-
-**Agriculture / food science?**
-- Focus on Plant Science and Agricultural Biology lanes
-
-**Data scientist / analyst?**
-- Focus on T1 ML Tools and A1–A4 Analytics
-
-**Developer / contributor?**
-- Follow `CONTRIBUTING.md`, issue labels, and MIT-licensed repo structure
+- `README.md` - framing, question, methods, key findings
+- `report.md` - fuller narrative and interpretation
+- `data/raw/` - original or imported source material
+- `data/processed/` - cleaned, analysis-ready inputs
+- `figures/` - exported charts and visuals
+- `dashboard/` - static visual layer when useful
+- `execution_trace.ipynb` - reproducible notebook when applicable
+- `requirements.txt` - dependencies
+- `app.py` - interactive demo if applicable
 
 ---
 
-## 📖 Citation
+## Navigation
+
+New to the lab?
+- Start with the repo README and dashboard screenshots
+- Move next into `report.md` and figures
+
+Scientist / researcher?
+- Focus on Science repos and reproducible traces
+
+Founder / operator?
+- Focus on Entrepreneurship repos and case logic
+
+Developer / contributor?
+- Focus on Technology repos and reusable tooling
+
+---
+
+## Citation
 
 ```bibtex
 @misc{kolisnyk2026krdlab,
@@ -196,15 +204,14 @@ Examples:
   year      = {2026},
   publisher = {GitHub},
   url       = {https://github.com/K-RnD-Lab},
-  note      = {Three spheres: Science, Tech, Analytics. All results are hypothesis-generating.}
+  note      = {Three spheres: Science, Entrepreneurship, Technology. All results are hypothesis-generating.}
 }
 ```
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
-All computational models are research-grade and experimental. Results labeled simulated require validation before clinical, pharmaceutical, agricultural, or commercial application. This work does not constitute medical, agronomic, or business advice.
+All computational models are research-grade and experimental. Results require validation before clinical, pharmaceutical, agricultural, or commercial application. This work does not constitute medical, agronomic, or business advice.
 
-*Built with Python · Gradio · scikit-learn · pandas · matplotlib*  
-*© 2026 Oksana Kolisnyk · KOSATIKS GROUP · MIT License*
+Built with Python, Gradio, scikit-learn, pandas, and matplotlib.
