@@ -88,106 +88,106 @@ This way it is treated first and fully as a learning-and-cognition research line
 
 ---
 
-## ?? SPHERE II ? ENTREPRENEURSHIP
+## 🚀 SPHERE II — ENTREPRENEURSHIP
 
 Applied research for decision-making, venture design, operating systems, market intelligence, ecosystem signals, and visible public cases.
 
-### ?? E1 ? Venture, Product & Opportunity Systems
+### 🧭 E1 — Venture, Product & Opportunity Systems
 
 Opportunity framing, venture logic, product direction, operating hypotheses, and decision systems that help ideas become structured bets rather than loose intuition.
 
 ```text
-E1 ? Venture, Product & Opportunity Systems
-?
-??? E1-R1  Opportunity Mapping & Problem Framing
-??? E1-R2  Product / Venture Validation
-??? E1-R3  Operating System Design
+E1 — Venture, Product & Opportunity Systems
+│
+├── E1-R1  Opportunity Mapping & Problem Framing
+├── E1-R2  Product / Venture Validation
+└── E1-R3  Operating System Design
 ```
 
-### ?? E2 ? Market, Audience & Behavioral Intelligence
+### 📊 E2 — Market, Audience & Behavioral Intelligence
 
 Audience signals, segmentation, campaign logic, positioning research, and behavioral patterns translated into practical market insight.
 
 ```text
-E2 ? Market, Audience & Behavioral Intelligence
-?
-??? E2-R1  Audience Segmentation
-??? E2-R2  Campaign & Messaging Effectiveness
-??? E2-R3  Consumer Behavior Modeling
+E2 — Market, Audience & Behavioral Intelligence
+│
+├── E2-R1  Audience Segmentation
+├── E2-R2  Campaign & Messaging Effectiveness
+└── E2-R3  Consumer Behavior Modeling
 ```
 
-### ??? E3 ? Ecosystem, Partnerships & External Signals
+### 🤝 E3 — Ecosystem, Partnerships & External Signals
 
 Ecosystem mapping, partnership landscapes, social/open signals, and external monitoring that help locate leverage, context, and strategic timing.
 
 ```text
-E3 ? Ecosystem, Partnerships & External Signals
-?
-??? E3-R1  Ecosystem Mapping
-??? E3-R2  Partnership & Stakeholder Landscapes
-??? E3-R3  Open, Social & Signal Tracking
+E3 — Ecosystem, Partnerships & External Signals
+│
+├── E3-R1  Ecosystem Mapping
+├── E3-R2  Partnership & Stakeholder Landscapes
+└── E3-R3  Open, Social & Signal Tracking
 ```
 
-### ?? E4 ? Applied Investigations & Public Cases
+### 🗂️ E4 — Applied Investigations & Public Cases
 
 Cross-domain investigations that are visible, systems-facing, and useful as public case studies rather than private notes.
 
 ```text
-E4 ? Applied Investigations & Public Cases
-?
-??? E4-A ? Systems & Workflow Cases
-??? E4-B ? Learning & Preparation Cases
-??? E4-C ? Life OS & Longitudinal Self-Research Cases
+E4 — Applied Investigations & Public Cases
+│
+├── E4-A — Systems & Workflow Cases
+├── E4-B — Learning & Preparation Cases
+└── E4-C — Life OS & Longitudinal Self-Research Cases
 ```
 
 **How to use E4 correctly:**
 
-- `E4-A` ? workflows, operations, process evolution, system cleanup
-- `E4-B` ? preparation dashboards, learning cases, adaptive progress stories
-- `E4-C` ? broader life-system analytics only when they become real longitudinal research rather than private journaling
+- `E4-A` — workflows, operations, process evolution, system cleanup
+- `E4-B` — preparation dashboards, learning cases, adaptive progress stories
+- `E4-C` — broader life-system analytics only when they become real longitudinal research rather than private journaling
 
 ---
 
-## ?? SPHERE III ? TECHNOLOGY
+## 💻 SPHERE III — TECHNOLOGY
 
 Computational tools, automation, reproducibility, dashboards, and open research infrastructure.
 Methods: machine learning, NLP, statistical modeling, software engineering, and interface design for usable research systems.
 
-### ?? T1 ? Research Tools, ML & Analytical Engines
+### 🛠️ T1 — Research Tools, ML & Analytical Engines
 
 Reusable engines, models, and pipelines for scientific and analytical work.
 
 ```text
-T1 ? Research Tools, ML & Analytical Engines
-?
-??? T1-R1  OpenVariant Engine
-??? T1-R2  Corona ML Pipeline
-??? T1-R3  AutoCorona NLP
-??? T1-R4  Synthetic Lethal Finder
+T1 — Research Tools, ML & Analytical Engines
+│
+├── T1-R1  OpenVariant Engine
+├── T1-R2  Corona ML Pipeline
+├── T1-R3  AutoCorona NLP
+└── T1-R4  Synthetic Lethal Finder
 ```
 
-### ?? T2 ? Reproducibility, Scoring & Method Systems
+### 📐 T2 — Reproducibility, Scoring & Method Systems
 
 Frameworks, scoring systems, confidence labels, evaluation logic, and reproducible analytical methodology.
 
 ```text
-T2 ? Reproducibility, Scoring & Method Systems
-?
-??? T2-R1  Research Gap Scoring
-??? T2-R2  Confidence Labeling
-??? T2-R3  Reproducible Evaluation Workflows
+T2 — Reproducibility, Scoring & Method Systems
+│
+├── T2-R1  Research Gap Scoring
+├── T2-R2  Confidence Labeling
+└── T2-R3  Reproducible Evaluation Workflows
 ```
 
-### ?? T3 ? Dashboards, Interfaces & Open Infrastructure
+### 🖥️ T3 — Dashboards, Interfaces & Open Infrastructure
 
 Reusable interfaces, public dashboards, literature-gap tooling, registries, and open infrastructure that make research more usable and inspectable.
 
 ```text
-T3 ? Dashboards, Interfaces & Open Infrastructure
-?
-??? T3-R1  Dashboard Templates & Public Interfaces
-??? T3-R2  Literature Gap Detection
-??? T3-R3  Dataset Registries & Open Research Infrastructure
+T3 — Dashboards, Interfaces & Open Infrastructure
+│
+├── T3-R1  Dashboard Templates & Public Interfaces
+├── T3-R2  Literature Gap Detection
+└── T3-R3  Dataset Registries & Open Research Infrastructure
 ```
 
 ---
