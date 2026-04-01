@@ -54,17 +54,35 @@ S1 — Biomedical & Oncology
 └── 🧠 S1-F · PHYLO-RARE        ← Rare Cancers / Frontier
 ```
 
+**Conference-aligned expertise**
+
+- `Nucleic-acid therapeutics: technologies and applications` → `S1-B` and `S1-D`
+- `Bioinformatics and AI in biomedical research` → cross-cutting across `S1`, with reusable methods in `T1/T2`
+- `Biomarkers and molecular diagnostics` → `S1-E`
+- `Other translational research` → cross-cutting umbrella across `S1`, `E`, and `T`
+- `Recombinant proteins and MAB development technologies` → future `S1-G` when it becomes a repeated line of work
+- `Gene editing technologies and applications in medicine` → future `S1-H`
+- `Advanced cell therapies` → future `S1-I`
+- `Structure biology` → future `S1-J`, or part of `S1-C` when tied to molecular design
+
+Potential future `S1` expansion tracks:
+
+- `S1-G` Biologics & Antibody Engineering
+- `S1-H` Gene Editing & Functional Therapeutics
+- `S1-I` Cell Therapies & Translational Platforms
+- `S1-J` Structural Biology & Molecular Design
+
 ### 🌿 S2 — Plant Science & Phytochemistry
 
-What bioactive compounds do plants produce — and what can they do?
+Plant-intrinsic biology: phytochemicals, plant metabolites, bioactive compounds, and plant molecular traits.
 
 ### 🌾 S3 — Agricultural Biology & Biofertilizers
 
-How do soil microbiomes support plant growth — and how can we engineer them?
+Applied agro-biology: soil, rhizosphere, biofertilizers, crop-growth systems, and intervention logic.
 
 ### ⚗️ S4 — Biochemistry & Metabolomics
 
-What metabolic signatures distinguish healthy from diseased states?
+Cross-organism biochemical mechanisms and metabolomic signatures.
 
 ### 🧠 S5 — Neuroscience & Aging
 
@@ -72,7 +90,7 @@ What computational patterns predict neurodegeneration and aging?
 
 ### 🌍 S6 — Ecology & Environmental Science
 
-Environmental microbiomes, biodiversity, and climate-linked computational ecology.
+Ecosystems, biodiversity, environmental communities, and climate/pollution-linked system effects.
 
 ### 📚 S7 — K Life OS
 
@@ -152,6 +170,8 @@ E4 — Applied Investigations & Public Cases
 
 Computational tools, automation, reproducibility, dashboards, and open research infrastructure.
 Methods: machine learning, NLP, statistical modeling, software engineering, and interface design for usable research systems.
+
+Bio-oriented tooling belongs in this sphere when the output is a reusable method, scoring system, interface, or infrastructure layer rather than a biological claim itself.
 
 ### 🛠️ T1 — Research Tools, ML & Analytical Engines
 
