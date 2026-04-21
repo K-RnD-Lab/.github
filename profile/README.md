@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-# 🔬 K R&D Lab
+# 🔬 [K-R&D Lab]
 
 **Open-Source Computational Research Hub by [Oksana Kolisnyk](https://kosatiks-group.pp.ua)**
 
