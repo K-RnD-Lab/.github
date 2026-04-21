@@ -268,7 +268,7 @@ Standard repo structure:
 ```bibtex
 @misc{kolisnyk2026krdlab,
   author    = {Kolisnyk, Oksana},
-  title     = {K R&D Lab: Open-Source Computational Research Hub},
+  title     = {[K-R&D Lab]: Open-Source Computational Research Hub},
   year      = {2026},
   publisher = {GitHub},
   url       = {https://github.com/K-RnD-Lab},
