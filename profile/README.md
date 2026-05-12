@@ -241,6 +241,37 @@ Standard repo structure:
 
 ---
 
+## 📦 Published Packages
+
+| Package | Version | Description |
+|---|---|---|
+| [bioscore](https://pypi.org/project/bioscore/) | 0.2.0 | Reproducibility audit, data quality, model readiness — one pip, three checks |
+| [set-method](https://pypi.org/project/set-method/) | 0.2.0 | Classify projects into SET spheres, score with dual frameworks, recommend quests |
+| [studyreg](https://pypi.org/project/studyreg/) | 0.1.0 | Study pre-registration: register, search, validate |
+
+```bash
+pip install bioscore set-method studyreg
+```
+
+## 🌐 Live Hubs
+
+| Hub | URL | Purpose |
+|---|---|---|
+| K-RnD Lab | [k-rnd-lab.vercel.app](https://k-rnd-lab.vercel.app) | Research overview & tools |
+| K Venture Studio | [k-venture-studio.vercel.app](https://k-venture-studio.vercel.app) | Venture building |
+| K Mentorship Hub | [k-mentorship-hub-frontier.vercel.app](https://k-mentorship-hub-frontier.vercel.app) | Learning paths & quests |
+
+## 🤗 HuggingFace Spaces
+
+| Space | URL | Demo for |
+|---|---|---|
+| bioscore | [hf.co/spaces/K-RnD-Lab/bioscore](https://huggingface.co/spaces/K-RnD-Lab/bioscore) | Upload notebooks/CSV/models for scoring |
+| set-method | [hf.co/spaces/K-RnD-Lab/set-method](https://huggingface.co/spaces/K-RnD-Lab/set-method) | Classify & score projects |
+| studyreg | [hf.co/spaces/K-RnD-Lab/studyreg](https://huggingface.co/spaces/K-RnD-Lab/studyreg) | Register studies |
+| SPHERE FRONTIER | [hf.co/spaces/K-RnD-Lab/SPHERE-FRONTIER](https://huggingface.co/spaces/K-RnD-Lab/SPHERE-FRONTIER) | Interactive hub overview |
+
+---
+
 ## 🧭 Navigation
 
 **New to the lab?**
