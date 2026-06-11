@@ -12,6 +12,8 @@
 
 > ⚠️ All models are hypothesis-generating and require experimental or empirical validation.
 
+Public repo readiness and sync status: [`PUBLIC_REPO_AUDIT_2026_06.md`](./PUBLIC_REPO_AUDIT_2026_06.md)
+
 </div>
 
 ---
